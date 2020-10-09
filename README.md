@@ -10,3 +10,24 @@ You can also follow us on the blog : https://thedigitalagee.blogspot.com
 And follow us on Telegram : https://t.me/OmarMohmad
 
 To run the code, all you have to do is install Python 3, then double-click the file and enjoy .
+
+# How To Use
+
+# In Termux
+
+If you are in Termux, type the following commands:
+
+* `pkg update`
+* `pkg upgrade`
+* `pkg install python3`
+* `pkg install git`
+* `git clone https://github.com/Krsan4Learn/En_De-CodeTextBase64.git`
+* `cd En_De-CodeTextBase64`
+* `chmod +x en-de-text.py`
+* `python3 en-de-text.py`
+
+# In Windows
+
+In Windows, install Python and double click on the file and it will work for you .
+
+
