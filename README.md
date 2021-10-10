@@ -5,7 +5,7 @@ I created this simple script in order to teach beginners how to use base64 to en
 
 You can view the explanation directly on YouTube here : https://www.youtube.com/channel/UCK4TWhqw4_52H6BiuBMnhEA?view_as=subscriber
 
-You can also follow us on the blog : https://thedigitalagee.blogspot.com
+You can also follow us on the blog : https://www.krsan4learn.com/
 
 And follow us on Telegram : https://t.me/OmarMohmad
 
