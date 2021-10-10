@@ -3,7 +3,7 @@
 
 import base64
 
-print(" القرصان الإلكتروني للتعليم ")
+print("Mohamed Salah")
 while True :
     num = input("""
     
@@ -26,5 +26,4 @@ while True :
         print("-------------------------------------")
     else:
         print("Type Just 1 Or 2 !!")
-
 
